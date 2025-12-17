@@ -6,4 +6,4 @@ In each of the .cpp files, code for generating data, calculating partial likelih
 Folder Table1 includes simulation code (main.R for generation, analysis.R for creating summary tables) and simulation results (.RData, created by clusters) for simulating self-triggering models (Table 1 in the paper).
 Folder Table2 includes simulation code (main.R for generation, analysis.R for creating summary tables) and simulation results (.RData, created by clusters) for simulating competing-triggering models (Table 2 in the paper).
 
-Data, code and results for Li-Fraumeni syndrome analysis are not available due to data safety concerns.
+Data, code and results for Li-Fraumeni syndrome analysis are available upon request from the corresponding author of the paper, Dr. [Paul Albert](mailto:albertp@mail.nih.gov).
